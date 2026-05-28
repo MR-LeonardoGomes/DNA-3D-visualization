@@ -1,5 +1,8 @@
 # 🧬 DNA 3D Visualization
 
+👤 Autor
+@Mr-LeonardoGomes
+
 Uma visualização interativa e elegante da dupla hélice do DNA em 3D, desenvolvida com Python.
 
 ![DNA Visualization](https://img.shields.io/badge/Python-3.8+-blue)
